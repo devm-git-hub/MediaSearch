@@ -1,6 +1,3 @@
-
-//   const enabled = 'bg-gray-800 text-white hover:bg-gray-700'
-//   const disabled = 'opacity-50 cur
 import React from 'react'
 import { useNavigate } from 'react-router-dom'
 
