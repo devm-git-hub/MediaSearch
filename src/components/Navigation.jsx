@@ -35,14 +35,7 @@
 //     <div className="flex gap-3 items-center px-6 py-4">
 //       <button
 //         onClick={handlePrevious}
-//         disabled={!hasPrevious}
-//         className={`${baseBtn} ${hasPrevious ? enabled : disabled}`}
-//         aria-disabled={!hasPrevious}
-//       >
-//         Previous
-//       </button>
-
-//       <button
+//         disabled={!h
 //         onClick={handleNext}
 //         disabled={!hasNext}
 //         className={`${baseBtn} ${hasNext ? enabled : disabled}`}
