@@ -29,23 +29,7 @@
 
 //   const baseBtn = 'px-4 py-2 rounded font-medium transition'
 //   const enabled = 'bg-gray-800 text-white hover:bg-gray-700'
-//   const disabled = 'opacity-50 cursor-not-allowed bg-gray-600 text-gray-200'
-
-//   return (
-//     <div className="flex gap-3 items-center px-6 py-4">
-//       <button
-//         onClick={handlePrevious}
-//         disabled={!h
-//         onClick={handleNext}
-//         disabled={!hasNext}
-//         className={`${baseBtn} ${hasNext ? enabled : disabled}`}
-//         aria-disabled={!hasNext}
-//       >
-//         Next
-//       </button>
-
-//       <b
-
+//   const disabled = 'opacity-50 cur
 import React from 'react'
 import { useNavigate } from 'react-router-dom'
 
