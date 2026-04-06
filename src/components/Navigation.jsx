@@ -15,17 +15,7 @@
 
 //   // Determine if there is a previous/next route inside the provided routes array
 //   const hasPrevious = idx > 0
-//   const hasNext = idx !== -1 && idx < routes.length - 1
 
-//   const handlePrevious = () => {
-//     if (hasPrevious) navigate(routes[idx - 1])
-//   }
-
-//   const handleNext = () => {
-//     if (hasNext) navigate(routes[idx + 1])
-//   }
-
-//   const handleHome = () => navigate('/')
 
 //   const baseBtn = 'px-4 py-2 rounded font-medium transition'
 //   const enabled = 'bg-gray-800 text-white hover:bg-gray-700'
