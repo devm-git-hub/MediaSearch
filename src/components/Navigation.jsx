@@ -51,17 +51,7 @@
 //         Next
 //       </button>
 
-//       <button
-//         onClick={handleHome}
-//         className={`${baseBtn} ${enabled}`}
-//       >
-//         Home
-//       </button>
-//     </div>
-//   )
-// }
-
-// export default Navigation
+//       <b
 
 import React from 'react'
 import { useNavigate } from 'react-router-dom'
