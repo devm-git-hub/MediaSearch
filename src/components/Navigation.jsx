@@ -4,14 +4,7 @@
 
 // // Navigation component that moves through an ordered list of routes.
 // // - `routes` prop: ordered array of valid route paths (e.g. ['/', '/about', '/contact']).
-// // - Previous / Next move within that array; Home always navigates to '/'.
-
-// const Navigation = ({ routes = ['/', '/collection'] }) => {
-//   const navigate = useNavigate()
-//   const location = useLocation()
-
-//   const pathname = location.pathname
-//   const idx = routes.indexOf(pathname)
+// // - Previous / Next move within that array; Home always 
 
 //   // Determine if there is a previous/next route inside the provided routes array
 //   const hasPrevious = idx > 0
